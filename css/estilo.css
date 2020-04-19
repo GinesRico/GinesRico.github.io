@@ -1,6 +1,8 @@
 
-.fondo¨{
-	background-image: url("../imagenes/proximamente.jpg");
+body{
+	background-image: url('../imagenes/fondo.jpg');">
 	width: 100%,
 	height: 100vh
+	background-size: cover;
+	background-position: center;
 }
